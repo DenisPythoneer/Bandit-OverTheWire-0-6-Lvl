@@ -24,7 +24,7 @@
 
     readme – файл с паролем для bandit1.
 
-Флаг (Пароль для bandit1): boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+🚩 Флаг (Пароль для bandit1) : boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
 
 🔑 Level 1 → Level 2 (bandit1)
@@ -46,7 +46,7 @@
 
     Если просто написать cat -, Linux не сможять понять и обработать команду (стандартного ввода).
 
-Флаг (Пароль для bandit2): CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+🚩 Флаг (Пароль для bandit2) : CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 
 
 🔑 Level 2 → Level 3 (bandit2)
@@ -65,7 +65,7 @@
 
     Кавычки (" ") нужны, чтобы обойти пробелы в имени файла.
 
-Флаг (Пароль для bandit3): UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+🚩 Флаг (Пароль для bandit3) : UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 
 
 🔑 Level 3 → Level 4 (bandit3)
@@ -86,7 +86,7 @@
    
     cat .hidden
 
-Флаг (Пароль для bandit4): pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+🚩 Флаг (Пароль для bandit4) : pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 
 
 🔑 Level 4 → Level 5 (bandit4)
@@ -107,7 +107,7 @@
    
     cat ./-file07
    
-Флаг (Пароль для bandit5): koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+🚩 Флаг (Пароль для bandit5) : koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 
 
 🔑 Level 5 → Level 6 (bandit5)
@@ -136,4 +136,4 @@
   
   -group bandit6 - принадлежит группе bandit6
    
-Флаг (Пароль для bandit6): DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+🚩 Флаг (Пароль для bandit6) : DXjZPULLxYr17uwoI01bNLQbtFemEgo7

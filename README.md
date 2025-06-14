@@ -15,7 +15,7 @@
 
 Задача: Войти на сервер под пользователем bandit0.
 
-1. Подключение по SSH:
+Подключение по SSH:
 
     ssh bandit0@bandit.labs.overthewire.org -p 2220
 
@@ -27,7 +27,7 @@
 
     Пароль: bandit0
 
-2. Чтение файла readme в домашней директории:
+Чтение файла readme в домашней директории:
 
     cat readme
 
@@ -43,13 +43,13 @@
 
 Задача: Найти пароль в файле с названием - (минус).
 
-1. Подключение:
+Подключение:
 
     ssh bandit1@bandit.labs.overthewire.org -p 2220
 
     Пароль: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
-2. Чтение файла -:
+Чтение файла -:
 
     cat ./-
 
@@ -64,13 +64,13 @@
 
 Задача: Найти пароль в файле с пробелами в названии.
 
-1. Подключение:
+Подключение:
 
     ssh bandit2@bandit.labs.overthewire.org -p 2220
 
     Пароль: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 
-2. Чтение файла spaces in this filename:
+Чтение файла spaces in this filename:
 
     cat "spaces in this filename"
 
@@ -83,13 +83,13 @@
 
 Задача: Найти пароль в скрытом файле внутри директории inhere.
 
-1. Подключение:
+Подключение:
 
     ssh bandit3@bandit.labs.overthewire.org -p 2220
    
     Пароль: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
    
-2. Поиск скрытого файла:
+Поиск скрытого файла:
 
     cd inhere  # Переходим в папку inhere
    
@@ -104,13 +104,13 @@
 
 Задача: Найти единственный человекочитаемый файл среди множества в inhere.
 
-1. Подключение:
+Подключение:
 
     ssh bandit4@bandit.labs.overthewire.org -p 2220
    
     Пароль: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
    
-2. Поиск читаемого файла:
+Поиск читаемого файла:
 
     cd inhere
    
@@ -125,13 +125,13 @@
 
 Задача: Найти файл с размером 1033 байта, неисполняемый и принадлежащий bandit7.
 
-1. Подключение:
+Подключение:
 
     ssh bandit5@bandit.labs.overthewire.org -p 2220
    
     Пароль: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
    
-2. Поиск файла:
+Поиск файла:
 
   find . -type f -size 1033c ! -executable -user bandit7 -group bandit6
   
@@ -148,4 +148,3 @@
   -group bandit6 - принадлежит группе bandit6
    
 Флаг (Пароль для bandit6): DXjZPULLxYr17uwoI01bNLQbtFemEgo7
-

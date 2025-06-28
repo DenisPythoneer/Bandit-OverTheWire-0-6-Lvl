@@ -126,7 +126,7 @@
 
     find . -type f -size 1033c ! -executable -user bandit7 -group bandit6
   
-     find . – ищет в текущей директории.
+    find . – ищет в текущей директории.
   
     -type f - ищет только файлы/
   

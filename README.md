@@ -107,7 +107,7 @@
    
     file ./* | grep ASCII   # Ищем файлы с текстом (ASCII)
    
-    cat ./-file07
+    cat ./file07
    
 ### 🚩 Флаг (Пароль для bandit5) : koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 
